@@ -2,11 +2,22 @@
 -THIS IS A GIT PROCESS
 
 
-
 ```bash
 git init
-git ass README.md
-git commit - "Initial commit"
+git add README.md
+git commit -m "Initial Commit"
+git log
 
-## SCREENSHOTS
-![GIT DEMO](./Screenshots/sss.png) -------adding the image
+
+```
+
+
+
+### SCREENSHOTS
+
+![GIT DEMO](./Screenshots/sss.png)
+
+![GIT DEMO](./Screenshots/SS.png)
+
+
+ -------adding the imageV
